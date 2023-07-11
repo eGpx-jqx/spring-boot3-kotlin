@@ -23,7 +23,7 @@ dependencies {
     constraints {
         api("com.github.johnrengelman.shadow:com.github.johnrengelman.shadow.gradle.plugin:7.1.2")
         api("org.projectlombok:lombok:1.18.26")
-
+        api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.2")
 
     }
 }
